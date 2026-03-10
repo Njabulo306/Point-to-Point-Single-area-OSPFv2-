@@ -19,8 +19,3 @@ This repository contains router configurations for a Cisco Packet Tracer lab foc
 - `R2.txt` – Full R2 OSPF config
 - `R3.txt` – Full R3 OSPF config
 
-## How to Use
-Upload these files to your GitHub repository as part of your CCNA/Networking portfolio.
-
-## Author
-Njabulo Ntshangase
